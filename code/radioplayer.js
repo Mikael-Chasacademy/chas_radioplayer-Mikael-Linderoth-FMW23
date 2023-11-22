@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       // Steg 3. ta ut liveaudio.url från varje kanal och lägg i en audio tagg.
       // <audio controls>
-      //   <source src="" type="audio/mpeg" />
+      // <source src="" type="audio/mpeg" />
       // </audio>
     });
   }
